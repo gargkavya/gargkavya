@@ -5,7 +5,7 @@
 - 💻 I’m currently working on a Web Dev Project
 - 📚 I’m currently learning about UX & Full-Stack Development
 - 📝 To Do: Learn new techs & make more projects
-<br> 
+
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=0077b6)
