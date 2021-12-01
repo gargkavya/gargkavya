@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=red)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=219ebc)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=yellow&color=343a40)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7b2cbf)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=blue&color=faa307)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=7b2cbf)
