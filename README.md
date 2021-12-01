@@ -31,9 +31,9 @@
 </a>
 -->
 
-|<img src="https://github-readme-stats.vercel.app/api?username=gargkavya&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargkavya"/>
+|<img src="https://github-readme-stats.vercel.app/api?username=gargkavya&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargkavya"/>|
+|---|---|
 
-<br>
 
 ### Reach Out to me on:
 [<img align="left" alt="Kavya Garg | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kavya-garg-/)
