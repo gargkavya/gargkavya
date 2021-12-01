@@ -31,7 +31,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true) -->
 
 <a href="https://github.com/gargkavya/gargkavya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gargkavya&show_icons=true" alt="Kavya's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gargkavya&show_icons=true&count_private=true" alt="Kavya's GitHub Stats" />
 </a>
 
 <!--
