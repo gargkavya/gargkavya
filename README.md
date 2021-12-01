@@ -7,5 +7,5 @@
 - 📝 To Do: Learn new techs & make more projects
 
 ### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=0077b6)
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=0077b6)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=023e8a)
