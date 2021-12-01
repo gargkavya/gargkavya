@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=blue&color=faa307)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=7b2cbf)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=f48c06)
 
 <br>
 
