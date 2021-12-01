@@ -5,7 +5,7 @@
 - 💻 I’m currently working on a Web Dev Project
 - 📚 I’m currently learning about UX & Full-Stack Development
 - 📝 To Do: Learn new techs & make more projects
-
+<br><br>
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c&logoColor=white&color=0077b6)
@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=7b2cbf)
 
-
+<br>
 
 ### &#x1f4c8; GitHub Stats
 <!--
