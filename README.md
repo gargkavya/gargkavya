@@ -1,4 +1,4 @@
-## Hey there! I'm Kavya Garg <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="30px">
+### Hey there! I'm Kavya Garg <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="30px">
 <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e472u8v3t0ma79m6uuvqafgszaqq6102j4yr52dyyhr&rid=giphy.gif&ct=g" align="right"  width="45%"/>
 
 
@@ -36,7 +36,7 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=gargkavya&&show_icons=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargkavya"/>|
 |---|---|
 
-<br>
+
 
 ### 💬 Reach Out to Me
 [<img align="left" alt="Kavya Garg | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kavya-garg-/)
