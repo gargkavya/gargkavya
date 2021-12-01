@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Kavya Garg 👋 <img src="https://c.tenor.com/AUHgwWxTw14AAAAi/dm4uz3-foekoe.gif" width="30px">
 
 <!--
 **gargkavya/gargkavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
