@@ -3,7 +3,7 @@
 
 
 - 💻 I’m currently working on a Web Dev Project
-- 📚 I’m currently learning about UX & Full-Stack Development
+- 📚 I’m currently learning about UI/UX Design & Full-Stack Development
 - 📝 To Do: Learn new techs & make more projects
 <br><br>
 
